@@ -1,0 +1,4 @@
+- name: debug
+  tasks:
+    - debug:
+        msg: "hello mysql"
